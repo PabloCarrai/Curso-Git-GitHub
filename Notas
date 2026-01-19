@@ -9,3 +9,22 @@ Hay un cuestionario en el aula virtual.
 Son dos cuestionarios uno por sesion. 
 Mas una encuesta mas.
 
+En el campus. 
+Git y Github requiere tiempo y trabajo con git.
+Sesion 1. 
+El desafio no es obligatorio. 
+Si es obligatorio hacer el cuestionario. 
+
+Que es git?
+Es un controlador de versiones.
+Permite mantener y gestionar versionado de codigo. 
+Sobre muchas versiones y sobre muchos archivos
+
+Git vendria a ser el control remoto de una television. 
+Github vendria a ser la tele. 
+
+#   Ver version de git
+git --version
+git -v
+
+
