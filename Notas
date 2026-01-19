@@ -27,6 +27,13 @@ Github vendria a ser la tele.
 git --version
 git -v
 
-
 #   Para arrancar el versionado de git hacemos
 git init
+
+#   Configurar Usuario y Correo de cuenta de github
+git config --global user.name "PabloCarrai"
+git config --global user.email "pablohernanjuan@hotmail.com"
+
+#   ver configuracion git
+git config --list
+
