@@ -37,3 +37,11 @@ git config --global user.email "pablohernanjuan@hotmail.com"
 #   ver configuracion git
 git config --list
 
+#   Ver estado del repositorio local
+git status
+
+#   Agregar los archivos para revisionar localmente   
+git add .
+
+#   Comitear los cambios. Sellar el estado
+git commit -m "Mensaje"
