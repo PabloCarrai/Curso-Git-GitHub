@@ -1,0 +1,10 @@
+Creamos y fusionamos una rama de mejora
+Objetivo: practicar creación, modificación y fusión de una rama.
+Pasos:
+1. Crear rama: git branch mejora-estilos
+2. Cambiar a la rama: git checkout mejora-estilos
+3. Realizar mejoras visibles en el código.
+4. Registrar cambios mediante commits.
+5. Volver a main: git checkout main
+6. Fusionar: git merge mejora-estilos
+7. Subir cambios: git push origin main
