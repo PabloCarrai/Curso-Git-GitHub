@@ -1,0 +1,6 @@
+#	Enlace a la practica Mini-Practica-1
+https://github.com/PabloCarrai/miniPractica-1
+#	Enlace a la practica Mini-Practica-2
+https://github.com/PabloCarrai/miniPractica-2
+#	Enlace al desafio realizado
+https://github.com/PabloCarrai/miniPractica-1
