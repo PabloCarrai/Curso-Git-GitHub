@@ -1,0 +1,24 @@
+#   Segundo encuentro. 
+#   21/1/26
+
+El funcionamiento local de git. Es
+el directorio de trabajo agregar el archivo con
+git add esto pasa a staging area. 
+En donde se hace el seguimiento. 
+luego con un git commit eso ingresa
+al repositorio. 
+
+#   El id de los commit lo vemos con 
+git log --oneline
+#   Nos envia a un estado en particular de los commit
+git checkout id
+#   Setea esa version del commit como la master
+git checkout master 
+#   Volver a un commit anterior, y perder los commit de ahi en adelante
+git reset id
+#   Esto ademas de los commit se lleva lo que se modifico
+git reset --hard id
+#   muestra todo lo hecho en commit
+git reflog
+#   Crea una rama nueva
+git branch nueva rama
