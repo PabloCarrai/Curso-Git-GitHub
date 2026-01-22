@@ -22,3 +22,7 @@ git reset --hard id
 git reflog
 #   Crea una rama nueva
 git branch nueva rama
+
+Para hacer merge
+siempre ubicado en donde quiero traerme lo 
+de la otra rama. 
